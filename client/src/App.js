@@ -9,22 +9,22 @@ function App() {
     <div className="App">
       <Wrapper>
         <Profile />
-        <Card>
+        <Card type="work">
           <h1>Test</h1>
         </Card>
-        <Card>
+        <Card type="play">
           <h1>Test</h1>
         </Card>
-        <Card>
+        <Card type="study">
           <h1>Test</h1>
         </Card>
-        <Card>
+        <Card type="exercise">
           <h1>Test</h1>
         </Card>
-        <Card>
+        <Card type="social">
           <h1>Test</h1>
         </Card>
-        <Card>
+        <Card type="self-care">
           <h1>Test</h1>
         </Card>
       </Wrapper>
